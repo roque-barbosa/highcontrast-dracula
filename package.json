@@ -1,0 +1,21 @@
+{
+  "name": "high-contrast-dracula",
+  "displayName": "High Contrast Dracula",
+  "description": "A high contrast theme using the color pallete from Dracula",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.81.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Contrast Dracula",
+        "uiTheme": "hc-black",
+        "path": "./themes/Contrast Dracula-color-theme.json"
+      }
+    ]
+  }
+}
