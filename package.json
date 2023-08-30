@@ -3,12 +3,16 @@
   "displayName": "High Contrast Dracula",
   "description": "A high contrast theme using the color pallete from Dracula",
   "version": "0.0.1",
+  "repository": {
+		"type": "git",
+		"url": "https://github.com/roque-barbosa/highcontrast-dracula"
+	},
   "engines": {
-    "vscode": "^1.81.0"
-  },
-  "categories": [
-    "Themes"
-  ],
+		"vscode": "^1.13.0"
+	},
+	"categories": [
+		"Themes"
+	],
   "contributes": {
     "themes": [
       {
